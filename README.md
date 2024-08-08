@@ -1,4 +1,4 @@
 # github-rebase
 
-Sarfaraz has edited
-My first commit message
+Sarfaraz has edited new
+My first commit message test
